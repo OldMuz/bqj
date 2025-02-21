@@ -3,7 +3,7 @@
         "id": 1,
         "link": "https://drive.google.com/file/d/1LsQLccBfLyjCLsnu_uImqEB0ktuUsoH_/view?usp=drivesdk",
         "size": "5.0MB",
-        "song_type": "01",
+        "group_type": "01",
         "title": "စောင်းဩဘာတေးထပ်",
         "type": "mp3"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "link": "https://drive.google.com/file/d/1_j-8PtT0V920TlksqiOOkC41P7gAux7O/view?usp=drivesdk",
         "size": "5.8MB",
-        "song_type": "01",
+        "group_type": "01",
         "title": "တေးထပ်-နိပါတ်တော်ထုတ်မှီပြ (ဒေါ်မေသန်း-ဦးလှဖေနှင့်အဖွဲ့)",
         "type": "mp3"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "link": "https://drive.google.com/file/d/1A_zajXtGmKF6R5FQQFuKrD8c4xHMFEAZ/view?usp=drivesdk",
         "size": "6.0MB",
-        "song_type": "02",
+        "group_type": "02",
         "title": "ကောင်းခြောက်ဆယ်လေးရပ် - တေးထပ်",
         "type": "mp3"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "link": "https://drive.google.com/file/d/1belS_pu2v9fDHDw1Q0RunxwsxRvoAi9g/view?usp=drivesdk",
         "size": "1.8MB",
-        "song_type": "02",
+        "group_type": "02",
         "title": "တေးထပ်-မယ်ဘွဲ့-ကောင်း၆၄ရပ် (ကိုလှဇင်-ဒေါ်တင်အုန်းအဖွဲ့)",
         "type": "mp3"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "link": "https://drive.google.com/file/d/19s5H_AUB1-SxvQLZEA0UzzYfgJfoiF9z/view?usp=drivesdk",
         "size": "6.0MB",
-        "song_type": "03",
+        "group_type": "03",
         "title": "တေးထပ်-နန်းသပြေပင်ညွန့်(ကိုထွန်းရွှေ-ဂီတမောင်မယ်အဖွဲ့)",
         "type": "mp3"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "link": "https://drive.google.com/file/d/1rn0agR9fycMswEtme4KGw4uTbOHukqR6/view?usp=drivesdk",
         "size": "5.7MB",
-        "song_type": "03",
+        "group_type": "03",
         "title": "တေးထပ်-နန်းသပြေပင်ညွန့်(ထားထားဦး-တေးညွန့်ဝေအဖွဲ့)",
         "type": "mp3"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "link": "https://drive.google.com/file/d/18G7xyerjOA2Itn5VHVJuNVZVWfq71EXH/view?usp=drivesdk",
         "size": "10.0MB",
-        "song_type": "03",
+        "group_type": "03",
         "title": "တေးထပ်-နန်းသပြေပင်ညွန့်(ဗုံတောက်သံ) (ဦးသိန်းကြွယ်-ဝင်းသိင်္ဂီအဖွဲ့)",
         "type": "mp3"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "link": "https://drive.google.com/file/d/1ZNQYjvfTQjL8JY5BMqKfkGH8CSYYKNHp/view?usp=drivesdk",
         "size": "5.2MB",
-        "song_type": "04",
+        "group_type": "04",
         "title": "ရှစ်ဆယ်ပေါ်တေးထပ်-မယ်ဘွဲ့-ကျောက်မြင်းသီလာ  (မသိန်းဟန်)",
         "type": "mp3"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "link": "https://drive.google.com/file/d/1Fkb4mK_a4RDvpDuLj2HfpiE2-prt7bT2/view?usp=drivesdk",
         "size": "4.1MB",
-        "song_type": "04",
+        "group_type": "04",
         "title": "ရှစ်ဆယ်ပေါ်တေးထပ်-မယ်ဘွဲ့-ကျောက်မြင်းသီလာ (ဦးဘခိုင်အဖွဲ့)",
         "type": "mp3"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "link": "https://drive.google.com/file/d/1CYZHnZp9Ho8SNZhfFgsgAzs89lwt7V0J/view?usp=drivesdk",
         "size": "2.6MB",
-        "song_type": "05",
+        "group_type": "05",
         "title": "ရှစ်ဆယ်ပေါ်တေးထပ်-မယ်ဘွဲ့-နန်းရံတရာ (ဦးဘသက်-ဒေါ်စိန်ပါတီအဖွဲ့)",
         "type": "mp3"
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "link": "https://drive.google.com/file/d/1Oo8WmkgxebXYDPng8A1_ewjr5funabz4/view?usp=drivesdk",
         "size": "10.8MB",
-        "song_type": "06",
+        "group_type": "06",
         "title": "02 ရွှေတိဂုံဘွဲ့ထပ်တွန့်တေးထပ်၊ကုန်စီစဉ်ပေါင်း (ဒေါ်အောင်ကြည်)",
         "type": "mp3"
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "link": "https://drive.google.com/file/d/1I6VpK6dbWwrhjCjAFJz_zTYA7I2HQ8Ty/view?usp=drivesdk",
         "size": "2.4MB",
-        "song_type": "06",
+        "group_type": "06",
         "title": "ထပ်တွန့်တေးထပ်-ရွှေတိဂုံဘွဲ့ (ပန်တျာကိုကျော်ညွန့်-မြန်မာညွန့်အဖွဲ့)",
         "type": "mp3"
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "link": "https://drive.google.com/file/d/1SkstHytNCCM6BoVaiwYKk22IfVraWK-l/view?usp=drivesdk",
         "size": "4.9MB",
-        "song_type": "06",
+        "group_type": "06",
         "title": "ထပ်တွန့်တေးထပ်-ရွှေတိဂုံဘွဲ့ (သင်းသင်းမြတ်အဖွဲ့)",
         "type": "mp3"
     },
@@ -107,7 +107,7 @@
         "id": 14,
         "link": "https://drive.google.com/file/d/1VEJkZ-vflGHavXPbReGr8X2IpwTWV96m/view?usp=drivesdk",
         "size": "7.4MB",
-        "song_type": "06",
+        "group_type": "06",
         "title": "ရှစ်ဆယ်ပေါ်ထပ်တွန့်တေးထပ်-ရွှေတိဂုံဘုရားဘွဲ့ (ကိုထွန်းရွှေ-ဂီတမောင်မယ်အဖွဲ့)",
         "type": "mp3"
     },
@@ -115,7 +115,7 @@
         "id": 15,
         "link": "https://drive.google.com/file/d/1lM4-PpajJ0XOqqiJBPuVk9f3maz2x3yw/view?usp=drivesdk",
         "size": "5.0MB",
-        "song_type": "06",
+        "group_type": "06",
         "title": "ရှစ်ဆယ်ပေါ်ထပ်တွန့်တေးထပ်-ရွှေတိဂုံဘုရားဘွဲ့ (ရွှေကူနန်းနွဲ့နွဲ့)",
         "type": "mp3"
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "link": "https://drive.google.com/file/d/1KvvIlN0jZy3awG5p7SoGhu34RliWVfDx/view?usp=drivesdk",
         "size": "6.8MB",
-        "song_type": "07",
+        "group_type": "07",
         "title": "01 စကြာဝဠာ၏ဝိညာဉ်ကိုအရှင်ဖမ်းခြင်း (တေးထပ်)",
         "type": "mp3"
     },
@@ -131,7 +131,7 @@
         "id": 17,
         "link": "https://drive.google.com/file/d/1TyxPUkmM2LT3k9cBsGSGzB9FPIzUmZcL/view?usp=drivesdk",
         "size": "4.6MB",
-        "song_type": "08",
+        "group_type": "08",
         "title": "17 အဝိဇ္ဇာပိတ်ကာဆို့အစချီနိဗ္ဗိန္ဒတေးထပ်ကိုထွန်းရွှေ",
         "type": "mp3"
     },
@@ -139,7 +139,7 @@
         "id": 18,
         "link": "https://drive.google.com/file/d/1hW8aW5KA7bd6kw0WeVh5lZ-w3q8fz8um/view?usp=drivesdk",
         "size": "7.0MB",
-        "song_type": "08",
+        "group_type": "08",
         "title": "တေးထပ်-အဝိဇ္ဇာပိတ်ကာဆို့ (ဒေါ်မေသန်းနှင့်အဖွဲ့)",
         "type": "mp3"
     },
@@ -147,7 +147,7 @@
         "id": 19,
         "link": "https://drive.google.com/file/d/1Kvq9ToUMSV6pkkIGYEnD1lXmCltOeQKX/view?usp=drivesdk",
         "size": "6.0MB",
-        "song_type": "08",
+        "group_type": "08",
         "title": "အဝိဇ္ဇာပိတ်ကာဆို့ နိဗ္ဗိန္ဒတေးထပ် - ရီရီသန့်",
         "type": "mp3"
     },
@@ -155,7 +155,7 @@
         "id": 20,
         "link": "https://drive.google.com/file/d/1d0bCLIzLcLhQ2K-8exgE1rb4EDKiwypc/view?usp=drivesdk",
         "size": "3.2MB",
-        "song_type": "09",
+        "group_type": "09",
         "title": "တေးထပ်-မိုးဘွဲ့-ရွာတော့မည်ဟန်ခင်းလို့ (ကောလိပ်မြိုင်-စိုးအမ္ဗုန်အဖွဲ့)",
         "type": "mp3"
     },
@@ -163,7 +163,7 @@
         "id": 21,
         "link": "https://drive.google.com/file/d/1UPRMu7U0d5t0LA69dXQwyFutgnQNyjaL/view?usp=drivesdk",
         "size": "5.2MB",
-        "song_type": "09",
+        "group_type": "09",
         "title": "တေးထပ်-မိုးဘွဲ့-ရွာတော့မည်ဟန်ခင်းလို့ (မှော်ဘီရဲနိုင်ထွန်း)",
         "type": "mp3"
     },
@@ -171,7 +171,7 @@
         "id": 22,
         "link": "https://drive.google.com/file/d/1Pv6gfPTji3MFKPEN9XEO6VAMpsSMn0Fq/view?usp=drivesdk",
         "size": "7.0MB",
-        "song_type": "10",
+        "group_type": "10",
         "title": "ရှစ်ဆယ်ပေါ်တေးထပ်-ဖိုးဝန်းတောင်ဘွဲ့ (သင်းသင်းမြတ်-ရွှေရည်ဦးအဖွဲ့)",
         "type": "mp3"
     },
@@ -179,7 +179,7 @@
         "id": 23,
         "link": "https://drive.google.com/file/d/1OZcHsfdyNM0FUakFCgrxnccO2pJAS0Nh/view?usp=drivesdk",
         "size": "2.9MB",
-        "song_type": "11",
+        "group_type": "11",
         "title": "တော်သုံးတော်ထင်ကျော်ကြား တေးထပ်ဆို ဝင်းသိင်္ဂီ ဆိုင်းရွှေမန်းတင်",
         "type": "mp3"
     },
@@ -187,7 +187,7 @@
         "id": 24,
         "link": "https://drive.google.com/file/d/1ChQby_6v5MxonNtw6hKhU4wLN3VzxOo6/view?usp=drivesdk",
         "size": "7.3MB",
-        "song_type": "12",
+        "group_type": "12",
         "title": "တေးထပ်-နွေဘွဲ့-ဒီရာသီနွေပေါက် (ကိုထွန်းရွှေ-ဂီတမောင်မယ်အဖွဲ့)",
         "type": "mp3"
     },
@@ -195,7 +195,7 @@
         "id": 25,
         "link": "https://drive.google.com/file/d/1VLHChVPB1qkfZ7F60q47XOxLa0uqURW6/view?usp=drivesdk",
         "size": "4.9MB",
-        "song_type": "13",
+        "group_type": "13",
         "title": "တေးထပ်-သီတင်းကျွတ်လဘွဲ့ (အေးအေးသွယ်-တေးရဂုံအဖွဲ့)",
         "type": "mp3"
     },
@@ -203,7 +203,7 @@
         "id": 26,
         "link": "https://drive.google.com/file/d/1YII0PJG1a0-9NU2WyhQEM74jBCXTgkmF/view?usp=drivesdk",
         "size": "5.2MB",
-        "song_type": "14",
+        "group_type": "14",
         "title": "တေးထပ်-ဆောင်းဘွဲ့-မစုံသူပန်းရှာရအောင်လို့ (ခင်ခင်ညွန့်-ဦးဘမောင်)",
         "type": "mp3"
     },
@@ -211,7 +211,7 @@
         "id": 27,
         "link": "https://drive.google.com/file/d/1k6YVUTYERROHFt0aXHburjz5jRPHoMWY/view?usp=drivesdk",
         "size": "5.6MB",
-        "song_type": "14",
+        "group_type": "14",
         "title": "တေးထပ်-ဆောင်းဘွဲ့-မစုံသူပန်းရှာရအောင်လို့ (ပပမြိုင်-စောင်းဦးချမ်းအဖွဲ့)",
         "type": "mp3"
     },
@@ -219,7 +219,7 @@
         "id": 28,
         "link": "https://drive.google.com/file/d/1XfYK0CS_tNlS-XS3QxlAgOP9A8YsOZH7/view?usp=drivesdk",
         "size": "6.0MB",
-        "song_type": "15",
+        "group_type": "15",
         "title": "တေးထပ်-မိုးဘွဲ့-အမ္ဗုန္ဓာ-ဝလာကရယ်က (မူမူခင်)",
         "type": "mp3"
     },
@@ -227,7 +227,7 @@
         "id": 29,
         "link": "https://drive.google.com/file/d/1b4HjfB9RQKayDmdFw481v3PSw5_oJfbN/view?usp=drivesdk",
         "size": "6.6MB",
-        "song_type": "16",
+        "group_type": "16",
         "title": "တေးထပ်-မိုးဘွဲ့-ဆိုးစဟန် (အေးအေးသွယ်-တေးရဂုံအဖွဲ့)",
         "type": "mp3"
     },
@@ -235,7 +235,7 @@
         "id": 30,
         "link": "https://drive.google.com/file/d/1IpMN_X6VWhkBa2OywlVzLKmDEilISddp/view?usp=drivesdk",
         "size": "3.1MB",
-        "song_type": "17",
+        "group_type": "17",
         "title": "ရှစ်ဆယ်ပေါ်တေးထပ်-၅၂၈ဖြာပြ (ခင်မေညွန့်-ဖျာပုံခရိုင်အဖွဲ့)",
         "type": "mp3"
     },
@@ -243,7 +243,7 @@
         "id": 31,
         "link": "https://drive.google.com/file/d/1jZvQYKGx4OkzKmO_NLCqRylO5ZUcPaiG/view?usp=drivesdk",
         "size": "8.8MB",
-        "song_type": "18",
+        "group_type": "18",
         "title": "တေးထပ်-မိုးဘွဲ့-လေးခွင်ရှစ်သွယ်ပါတ်ကာဝိုင်းလို့ (ခင်ခင်မြင့်၊ကိုထွန်းရွှေ)",
         "type": "mp3"
     },
@@ -251,7 +251,7 @@
         "id": 32,
         "link": "https://drive.google.com/file/d/1_UNiKj0JGkmg3OrTS8AdbGEKRoQJ8-Qr/view?usp=drivesdk",
         "size": "5.9MB",
-        "song_type": "19",
+        "group_type": "19",
         "title": "တေးထပ်-အောင်မင်္ဂလာကြူးရင့်ပါလို့ (မစိန်ဆင်)",
         "type": "mp3"
     },
@@ -259,7 +259,7 @@
         "id": 33,
         "link": "https://drive.google.com/file/d/1VXsWP8IW7qhnSiap-0jrStynoq0W5BdD/view?usp=drivesdk",
         "size": "6.8MB",
-        "song_type": "20",
+        "group_type": "20",
         "title": "04 ကုသိုလ်ပန်းပန်ခဲ့လို့ယခုလိုနန်းစံရတာ (တေးထပ်)",
         "type": "mp3"
     },
@@ -267,7 +267,7 @@
         "id": 34,
         "link": "https://drive.google.com/file/d/1-4OmvpnSM3MAzj0CMe_a7KROQFFaKWAj/view?usp=drivesdk",
         "size": "4.6MB",
-        "song_type": "21",
+        "group_type": "21",
         "title": "နိဗ္ဗန္ေဒတေးထပ် ဝိသုံဝိသုံ ငြိဆုံရ တိဘုမ္မက သင်္ခ်ရေ ဆို ဥက္ဒလာမင်းဟန် ဆိုင်းမြစတင်း",
         "type": "mp4"
     },
@@ -275,7 +275,7 @@
         "id": 35,
         "link": "https://drive.google.com/file/d/1hFYry7vijF92kJ-6WHmLx1yGSCdjZCzS/view?usp=drivesdk",
         "size": "7.1MB",
-        "song_type": "22",
+        "group_type": "22",
         "title": "03 ခြောက်သွယ်ရောင်ခြည်ကွန့်မြူးပြီပဌာန်းပူဇာတေးထပ်(ရေး-ဓမ္မာစရိယဦးမင်းကြည်)",
         "type": "mp3"
     },
@@ -283,7 +283,7 @@
         "id": 36,
         "link": "https://drive.google.com/file/d/1WjLSg_iNY2Pjcz-kOr0oUl7np0g18bzT/view?usp=drivesdk",
         "size": "3.6MB",
-        "song_type": "23",
+        "group_type": "23",
         "title": "05 ကပ်ကမ္ဘာပရမ္ပရအစချီဇာတိတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -291,7 +291,7 @@
         "id": 37,
         "link": "https://drive.google.com/file/d/1TnbgFhJfYQQnadIvF3-IbFW-JrkTbffN/view?usp=drivesdk",
         "size": "4.2MB",
-        "song_type": "24",
+        "group_type": "24",
         "title": "07 တည်သန္ဓေအစချီဇရာတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -299,7 +299,7 @@
         "id": 38,
         "link": "https://drive.google.com/file/d/1Kx4jmhWumLlPGZgDMpEay1zsfxo3Q9rf/view?usp=drivesdk",
         "size": "4.0MB",
-        "song_type": "25",
+        "group_type": "25",
         "title": "09 အရင်းခံဇာတိကြောင့်အစချီဗျာဓိတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -307,7 +307,7 @@
         "id": 39,
         "link": "https://drive.google.com/file/d/1bpb_m-HbicbvkMgq7Y4xZXhHmiekK2Hl/view?usp=drivesdk",
         "size": "4.2MB",
-        "song_type": "26",
+        "group_type": "26",
         "title": "11 ခန္ဓာကိုယ်ဘဝဇာတ်အစချီမရဏတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -315,7 +315,7 @@
         "id": 40,
         "link": "https://drive.google.com/file/d/1exTzZZVfxc2ilOFVtN-ot1-kFZ1Xg34e/view?usp=drivesdk",
         "size": "3.6MB",
-        "song_type": "27",
+        "group_type": "27",
         "title": "15 ကံကြမ္မာကြွေးဟောင်းအစချီတေးထပ်(ဦးပုည).mp3",
         "type": "mp3"
     },
@@ -323,7 +323,7 @@
         "id": 41,
         "link": "https://drive.google.com/file/d/1OEOf8qPsPXnFuLjawYFupQU1IehMu0NK/view?usp=drivesdk",
         "size": "4.6MB",
-        "song_type": "28",
+        "group_type": "28",
         "title": "17 အဝိဇ္ဇာပိတ်ကာဆို့အစချီနိဗ္ဗိန္ဒတေးထပ်ကိုထွန်းရွှေ ",
         "type": "mp3"
     },
@@ -331,7 +331,7 @@
         "id": 42,
         "link": "https://drive.google.com/file/d/1BGKzhe1hSRdD2N66_HEN0NnX0nqGcsGi/view?usp=drivesdk",
         "size": "3.1MB",
-        "song_type": "29",
+        "group_type": "29",
         "title": "19 ငါးအာရုံဘင်အစုအစချီတေးထပ်(လယ်တီဆရာတော်ဘုရားကြီး)",
         "type": "mp3"
     },
@@ -339,7 +339,7 @@
         "id": 43,
         "link": "https://drive.google.com/file/d/12cj47ImSneNaEBgSFOkgkF3OquGB-e7Y/view?usp=drivesdk",
         "size": "3.9MB",
-        "song_type": "30",
+        "group_type": "30",
         "title": "13 ဤကာယေအရိုးစုအစချီအနတ္တတေးထပ်(ဦးပုည)",
         "type": "mp3"
     },
@@ -347,7 +347,7 @@
         "id": 44,
         "link": "https://drive.google.com/file/d/1Gnv59zbm34K_lRZSKdEQzmLRamrZiHgV/view?usp=drivesdk",
         "size": "677.6kB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "01 စကားပြောအဖွင့်",
         "type": "mp3"
     },
@@ -355,7 +355,7 @@
         "id": 45,
         "link": "https://drive.google.com/file/d/1umDwTNAjleHiLbG0vGZBydbaKFtV8Ww2/view?usp=drivesdk",
         "size": "1.2MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "02 ခြောက်သွယ်ရောင်ခြည်ကွန့်မြူးပြီပဌာန်းပူဇာတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -363,7 +363,7 @@
         "id": 46,
         "link": "https://drive.google.com/file/d/1cSryvCNNizDgRhVtpa34ePIIuQ-8l_Ro/view?usp=drivesdk",
         "size": "7.1MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "03 ခြောက်သွယ်ရောင်ခြည်ကွန့်မြူးပြီပဌာန်းပူဇာတေးထပ်(ရေး-ဓမ္မာစရိယဦးမင်းကြည်)",
         "type": "mp3"
     },
@@ -371,7 +371,7 @@
         "id": 47,
         "link": "https://drive.google.com/file/d/1VADAJK3IaHdQ6B1pV11rx9pPQRGse7wE/view?usp=drivesdk",
         "size": "1.7MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "04 ကပ်ကမ္ဘာပရမ္ပရအစချီဇာတိတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -379,7 +379,7 @@
         "id": 48,
         "link": "https://drive.google.com/file/d/1915GFN9xUGPw39fux9tHrf5_Z9KuKocC/view?usp=drivesdk",
         "size": "3.6MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "05 ကပ်ကမ္ဘာပရမ္ပရအစချီဇာတိတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -387,7 +387,7 @@
         "id": 49,
         "link": "https://drive.google.com/file/d/1dlqcsrGrttBMNzKYJzIhLl-pOdNHyZgN/view?usp=drivesdk",
         "size": "1.3MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "06 တည်သန္ဓေအစချီဇရာတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -395,7 +395,7 @@
         "id": 50,
         "link": "https://drive.google.com/file/d/1RmF0yfxo9oJ8BWuFfayIpo1eERX2ve1G/view?usp=drivesdk",
         "size": "4.2MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "07 တည်သန္ဓေအစချီဇရာတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -403,7 +403,7 @@
         "id": 51,
         "link": "https://drive.google.com/file/d/1bt4Ka2YkR-RC_S2uZM0vHc7NvqmBkdDG/view?usp=drivesdk",
         "size": "1.5MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "08 အရင်းခံဇာတိကြောင့်အစချီဗျာဓိတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -411,7 +411,7 @@
         "id": 52,
         "link": "https://drive.google.com/file/d/14zZG-mTxpS3r4igTi76xqVVBi2d1gMFc/view?usp=drivesdk",
         "size": "4.0MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "09 အရင်းခံဇာတိကြောင့်အစချီဗျာဓိတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -419,7 +419,7 @@
         "id": 53,
         "link": "https://drive.google.com/file/d/1WgkdIfUU-V4coL-jBk3RqDg3d1HO-Tck/view?usp=drivesdk",
         "size": "1.7MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "10 ခန္ဓာကိုယ်ဘဝဇာတ်အစချီမရဏတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -427,7 +427,7 @@
         "id": 54,
         "link": "https://drive.google.com/file/d/10O94JUtZMM9zxC6iSNFcx_yHDULNdSlx/view?usp=drivesdk",
         "size": "4.2MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "11 ခန္ဓာကိုယ်ဘဝဇာတ်အစချီမရဏတေးထပ်(ရေး-လယ်တီပဏ္ဍိတဦးမောင်ကြီး)",
         "type": "mp3"
     },
@@ -435,7 +435,7 @@
         "id": 55,
         "link": "https://drive.google.com/file/d/1jrXo5jT6f9HcwMVadSDOZZ_Abo7LmsFa/view?usp=drivesdk",
         "size": "2.1MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "12 ဤကာယေအရိုးစုအစချီအနတ္တတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -443,7 +443,7 @@
         "id": 56,
         "link": "https://drive.google.com/file/d/11FVzF_vrQ-hER3X_bdt7ZtrMXVbiXLx1/view?usp=drivesdk",
         "size": "3.9MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "13 ဤကာယေအရိုးစုအစချီအနတ္တတေးထပ်(ဦးပုည)",
         "type": "mp3"
     },
@@ -451,7 +451,7 @@
         "id": 57,
         "link": "https://drive.google.com/file/d/1mDoy8_NO0SOPAa6mj52K24KkwuwH3l5L/view?usp=drivesdk",
         "size": "1.8MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "14 ကံကြမ္မာကြွေးဟောင်းအစချီတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -459,7 +459,7 @@
         "id": 58,
         "link": "https://drive.google.com/file/d/16b3Kb3QdF22lhIb5Hos66aBC1YDktN0u/view?usp=drivesdk",
         "size": "3.6MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "15 ကံကြမ္မာကြွေးဟောင်းအစချီတေးထပ်(ဦးပုည)",
         "type": "mp3"
     },
@@ -467,7 +467,7 @@
         "id": 59,
         "link": "https://drive.google.com/file/d/11RVum75s-XCHhk5EYwsuIYcw9s_UviBU/view?usp=drivesdk",
         "size": "1.8MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "16 အဝိဇ္ဇာပိတ်ကာဆို့အစချီနိဗ္ဗိန္ဒတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -475,7 +475,7 @@
         "id": 60,
         "link": "https://drive.google.com/file/d/1hKJc2a6yQSnw4JJgGNOfw0Ee4_ANKtit/view?usp=drivesdk",
         "size": "4.6MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "17 အဝိဇ္ဇာပိတ်ကာဆို့အစချီနိဗ္ဗိန္ဒတေးထပ်ကိုထွန်းရွှေ",
         "type": "mp3"
     },
@@ -483,7 +483,7 @@
         "id": 61,
         "link": "https://drive.google.com/file/d/1If606t2dejpuFj0VomERjjBUEG-iwnyi/view?usp=drivesdk",
         "size": "1.9MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "18 ငါးအာရုံဘင်အစုအစချီတေးထပ်(ရှင်းလင်းချက်)",
         "type": "mp3"
     },
@@ -491,7 +491,7 @@
         "id": 62,
         "link": "https://drive.google.com/file/d/155yO137ctx3GOw-IXBvXsAAVKNzc_fAT/view?usp=drivesdk",
         "size": "3.1MB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "19 ငါးအာရုံဘင်အစုအစချီတေးထပ်(လယ်တီဆရာတော်ဘုရားကြီး)",
         "type": "mp3"
     },
@@ -499,7 +499,7 @@
         "id": 63,
         "link": "https://drive.google.com/file/d/1iW3T9_QmyDvqP3kDBo08l2Xx-JrRZMuQ/view?usp=drivesdk",
         "size": "680.9KB",
-        "song_type": "31",
+        "group_type": "31",
         "title": "20 စကားပြောအပိတ်",
         "type": "mp3"
     }
